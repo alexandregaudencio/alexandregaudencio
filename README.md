@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div style="text-align:"center;">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Alexandre Gaudêncio, 
 programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
@@ -23,3 +24,5 @@ programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
 
 
 
+
+</div>

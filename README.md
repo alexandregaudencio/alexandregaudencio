@@ -1,20 +1,18 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Alexandre Gaudêncio, 
-### programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
+programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
+
+## Tecnologias mais usadas:
+<div style="position: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/>
+</div>
 
 #
-Tecnologias mais usadas:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/>
-
-#
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregaudencio&hide_progress=false)
-
 
 ## Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandre.gtpjr@gmail.com) 

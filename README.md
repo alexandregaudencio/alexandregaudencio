@@ -1,16 +1,27 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!--
-**alexandregaudencio/alexandregaudencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Alexandre Gaudêncio, 
+### programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
 
-Here are some ideas to get you started:
+#
+Tecnologias mais usadas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/>
+
+#
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregaudencio&hide_progress=false)
+
+
+## Contato:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandre.gtpjr@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaudencio/) 
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alexandre-gaudencio.itch.io/) 
+
+
+
+
+

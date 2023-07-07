@@ -16,7 +16,7 @@ programador e desenvolvedor de jogos, fascinado por tecnologias criativas.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregaudencio&hide_progress=false)
 
 ## Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandre.gtpjr@gmail.com) 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaudencio/) 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alexandre-gaudencio.itch.io/) 
 

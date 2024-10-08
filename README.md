@@ -14,7 +14,8 @@ programador e desenvolvedor de jogos.
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregaudencio&hide_progress=false)
-
+#
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandregaudencio)](https://git.io/streak-stats)
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaudencio/) 

@@ -8,13 +8,12 @@
 
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/> -->
 </div>
-
 #
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregaudencio&hide_progress=false)
 #
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexandregaudencio)](https://git.io/streak-stats)
-## Contato
+## Contact -->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaudencio/) 
 

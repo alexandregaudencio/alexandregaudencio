@@ -1,9 +1,5 @@
 <div style="text-align:"center;">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-## Alexandre Gaudêncio
-Game Programmer | C# | Unity.
-
 ## Most Used Techs
 <div style="position: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>

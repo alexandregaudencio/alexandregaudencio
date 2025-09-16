@@ -5,7 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40px" />
-    <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="40px" />
+   <!-- <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" width="40px" /> -->
 
     
 

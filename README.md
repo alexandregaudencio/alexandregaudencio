@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Alexandre Gaudêncio
-programador e desenvolvedor de jogos.
+A Game Programmer.
 
 ## Tecnologias mais usadas
 <div style="position: flex;">

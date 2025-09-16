@@ -8,7 +8,9 @@ A Game Programmer.
 <div style="position: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/> -->
+    <img src="https://cdn.jsdelivr.net/npm/@exercism/highlightjs-gdscript@0.0.1/src/index.min.js" width="40px" />
+
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/> -->
 </div>
 
 #

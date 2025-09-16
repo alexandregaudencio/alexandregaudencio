@@ -2,13 +2,13 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Alexandre Gaudêncio
-A Game Programmer.
+Game Programmer | C# | Unity.
 
-## Tecnologias mais usadas
+## Most Used Techs
 <div style="position: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
-    <img src="https://cdn.jsdelivr.net/npm/@exercism/highlightjs-gdscript@0.0.1/src/index.min.js" width="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40px" />
 
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40x"/> -->
 </div>
